@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Aug 31 11:10:18 EEST 2017
+base.0=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

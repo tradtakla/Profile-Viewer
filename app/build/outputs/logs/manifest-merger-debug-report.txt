@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:5:2-29:16
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/me/.android/build-cache/dc9e20aa9efde105761af51133ef4295b3253a12/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/me/.android/build-cache/94ec63d0f530cd71ec17840c2889ec1ad2ec38fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/me/.android/build-cache/ef49b405c5fc3d8b5f4ddb27464cc835e26054a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/me/.android/build-cache/00fdd63892025f8c6c33d18c9bc5f39c37bd300a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/me/.android/build-cache/1274dbbb6b36159e6432a97a17735c9a23a80ef6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/fbbbd0ebc28731f6fefd549a98370f0b108a3fd6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/0454ffe4e3cdb750721cb9c549db2cbb40e47ba4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/me/.android/build-cache/5e79aa68df2046096e67c5850dd6e18a061219c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/me/.android/build-cache/38cc63876fdb2201c68c0670ad2423d6ac0e2111/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:8:3-35
+	android:supportsRtl
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:10:3-29
+	android:roundIcon
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:9:3-48
+	android:allowBackup
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:6:3-29
+	android:icon
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:7:3-37
+	android:theme
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:11:3-34
+activity#com.appsandgamesinc.progetter.MainActivity
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:12:3-18:14
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:13:4-17:20
+action#android.intent.action.MAIN
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:14:5-56
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:16:15-62
+activity#com.appsandgamesinc.progetter.ScanningActivity
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:21:3-27:14
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:21:13-45
+intent-filter#android.intent.action.SCANNINGACTIVITY+android.intent.category.DEFAULT
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:22:4-26:20
+action#android.intent.action.SCANNINGACTIVITY
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:23:13-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:25:5-63
+	android:name
+		ADDED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml:25:15-61
+uses-sdk
+INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/me/.android/build-cache/dc9e20aa9efde105761af51133ef4295b3253a12/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/me/.android/build-cache/94ec63d0f530cd71ec17840c2889ec1ad2ec38fc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/me/.android/build-cache/ef49b405c5fc3d8b5f4ddb27464cc835e26054a7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/me/.android/build-cache/00fdd63892025f8c6c33d18c9bc5f39c37bd300a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/me/.android/build-cache/1274dbbb6b36159e6432a97a17735c9a23a80ef6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/fbbbd0ebc28731f6fefd549a98370f0b108a3fd6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/0454ffe4e3cdb750721cb9c549db2cbb40e47ba4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/me/.android/build-cache/5e79aa68df2046096e67c5850dd6e18a061219c3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/me/.android/build-cache/38cc63876fdb2201c68c0670ad2423d6ac0e2111/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/me/Desktop/Workspace/Android/ProGetter/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/me/.android/build-cache/dc9e20aa9efde105761af51133ef4295b3253a12/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/me/.android/build-cache/94ec63d0f530cd71ec17840c2889ec1ad2ec38fc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/me/.android/build-cache/ef49b405c5fc3d8b5f4ddb27464cc835e26054a7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/me/.android/build-cache/00fdd63892025f8c6c33d18c9bc5f39c37bd300a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/me/.android/build-cache/1274dbbb6b36159e6432a97a17735c9a23a80ef6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/fbbbd0ebc28731f6fefd549a98370f0b108a3fd6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/me/.android/build-cache/0454ffe4e3cdb750721cb9c549db2cbb40e47ba4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/me/.android/build-cache/5e79aa68df2046096e67c5850dd6e18a061219c3/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/AndroidManifest.xml:26:9-47

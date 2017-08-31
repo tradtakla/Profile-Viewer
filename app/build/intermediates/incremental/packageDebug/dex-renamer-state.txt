@@ -1,0 +1,7 @@
+#Thu Aug 31 14:15:03 EEST 2017
+base.0=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ebdbc833f679f4ef30650e25378d51adb549137
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7ba1f463d67c320c2e0db5da8a6da70cd8a1fb5/classes.dex
+base.1=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7ba1f463d67c320c2e0db5da8a6da70cd8a1fb5
+file.0=/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ebdbc833f679f4ef30650e25378d51adb549137/classes.dex
