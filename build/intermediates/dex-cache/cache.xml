@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/me/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ebdbc833f679f4ef30650e25378d51adb549137/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c2cfd56a17821156ba2153f220e40c8480e76cea">
-        <dex dex="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7ba1f463d67c320c2e0db5da8a6da70cd8a1fb5/classes.dex" />
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_54468e36aeb3f312b2e937ccb8b4d799aaa6ff6c.jar" />
     </item>
 
 </items>

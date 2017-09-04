@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 			  android:layout_width="match_parent"
 			  android:layout_height="match_parent"
-			  android:orientation="vertical">
+			  android:orientation="vertical"
+			  android:background="@color/colorWhite">
 
 	<LinearLayout
 		android:id="@+id/llTitle"
@@ -96,6 +97,7 @@
 			android:padding="10dp">
 
 			<ImageView
+				android:id="@+id/ivSearchbtn"
 				android:layout_width="20dp"
 				android:layout_height="20dp"
 				android:src="@drawable/search"/>
@@ -109,12 +111,16 @@
 			</View>
 
 			<EditText
+				android:id="@+id/etSearchBar"
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
 				android:background="@android:color/transparent"
 				android:gravity="center"
 				android:hint="Type username/name to find profile"
-				android:textSize="14sp"/>
+				android:textSize="14sp"
+				android:lines="1"
+				android:maxLines="1"
+				android:cursorVisible="false"/>
 
 
 		</LinearLayout>
@@ -122,23 +128,37 @@
 	</RelativeLayout>
 
 	<LinearLayout
+		android:id="@+id/scanningLayout"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
 		android:layout_weight="0.25"
+		android:gravity="center"
 		android:orientation="vertical">
 
 
+		<ImageView
+			android:layout_width="110dp"
+			android:layout_height="110dp"
+			android:layout_marginBottom="70dp"
+			android:src="@drawable/scanning"/>
 
 	</LinearLayout>
 
 	<LinearLayout
+		android:id="@+id/resultLayout"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
 		android:layout_weight="0.25"
 		android:orientation="vertical"
-		android:visibility="gone">
+		android:visibility="gone"
+		android:gravity="center">
 
 
+		<ImageView
+			android:id="@+id/ivProfilePhoto"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="10dp"/>
 
 	</LinearLayout>
 

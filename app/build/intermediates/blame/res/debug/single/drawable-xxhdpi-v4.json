@@ -136,12 +136,12 @@
         "source": "/Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/me/.android/build-cache/2d0999ae34e5a9e70f8a5809d00e0c19f79c4859/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",

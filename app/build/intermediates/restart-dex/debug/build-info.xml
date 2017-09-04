@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1504178623807"
+    timestamp="1504528376297"
     token="-598041745156967826"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="162" />
+        duration="278" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="23" />
+        duration="33" />
     <task
         name="verifier"
-        duration="1" />
+        duration="2" />
 
     <artifact
         location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
@@ -29,13 +29,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1504167014989"
+        timestamp="1504527723721"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -44,25 +41,28 @@
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/outputs/apk/app-debug.apk"
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504178100153"
+        timestamp="1504527992634"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/outputs/apk/app-debug.apk"
@@ -78,7 +78,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504178623807"
+        timestamp="1504528376297"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/me/Desktop/Workspace/Android/ProGetter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
